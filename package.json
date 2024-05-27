@@ -1,0 +1,17 @@
+{
+  "name": "farcaster-get-data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "@farcaster/hub-nodejs": "^0.11.12",
+    "axios": "^1.7.2"
+  }
+}
